@@ -1,4 +1,4 @@
-import { FiTwitter, FiFacebook, FiInstagram, FiLinkedin } from "react-icons/fi";
+import { FiFacebook, FiInstagram, FiLinkedin } from "react-icons/fi";
 import styles from "./Footer.module.css";
 
 interface FooterLink {

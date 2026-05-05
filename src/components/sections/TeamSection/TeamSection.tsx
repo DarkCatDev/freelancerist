@@ -20,7 +20,7 @@ interface TeamSectionProps {
 
 const defaultMembers: TeamMember[] = [
   { name: "Arjay Pielago", role: "Virtual Assistant/Frontend Developer", bio: "A Computer Science graduate that has experience in frontend development and ample knowledge of project management tools, office tools, and graphic design.", socials: {linkedin: "https://www.linkedin.com/in/arpie-darkcatdev/", website: "https://tap-link-hub.vercel.app/", upwork: "https://www.upwork.com/freelancers/~015174e4250111b7d2"}},
-  { name: "Ma. Kyra Valencia", role: "Virtual Assistant", bio: "Pa cute lang ahahaha" },
+  { name: "Ma. Kyra Valencia", role: "Virtual Assistant", bio: "A Computer Science graduate that specialized in 3D modeling and game development. Has basic knowledge of project management and office work." },
 
 ];
 

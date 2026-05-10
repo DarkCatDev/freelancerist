@@ -18,7 +18,7 @@ interface CardGridProps {
 
 const defaultItems: PortfolioCard[] = [
   {
-    title: "Websites",
+    title: "Website Samples",
     icon: "🌐",
     links: [
       { label: "Link-Hub", href: "https://tap-link-hub.vercel.app/" },
@@ -62,14 +62,14 @@ const defaultItems: PortfolioCard[] = [
       { label: "Mobile Menu Mockup", href: "https://canva.link/lak29divjpmdw7r" },
     ],
   },
-  {
+/*  {
     title: "Calendar / Schedule Management",
     icon: "📅",
     links: [
       { label: "VA sample Calendar", href: "https://calendar.google.com/calendar/u/0?cid=NjhjZWEzMDZmZDNiMzgyMzlkMzU0MWY2MjI2MDUyYTc0NTA1ODMzYTdlMWIyMzNlZjc5ODQ2OTViMWZiMzgzOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" },
       
     ],
-  },
+  },*/
   {
     title: "Project Management",
     icon: "📋",

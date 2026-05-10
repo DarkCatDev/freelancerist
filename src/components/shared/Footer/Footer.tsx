@@ -21,10 +21,9 @@ interface FooterProps {
 
 const defaultColumns: FooterColumn[] = [
   {
-    heading: "Company",
+    heading: "Studio/Company",
     links: [
       { label: "About", href: "#" },
-      { label: "Careers", href: "#" },
     ],
   },
   {
@@ -32,6 +31,7 @@ const defaultColumns: FooterColumn[] = [
     links: [
       { label: "Virtual Assistance", href: "#" },
       { label: "Web Development", href: "#" },
+      { label: "3D Asset Creation", href: "#" },
     ],
   },
   {

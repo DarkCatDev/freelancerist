@@ -79,6 +79,7 @@ export default function ContactSection({
             )}
           </div>
 
+          {/*
           <div className={styles.formWrap}>
             {submitted ? (
               <div className={styles.success}>
@@ -143,7 +144,13 @@ export default function ContactSection({
                 <button type="submit" className={styles.submitBtn}>Send Message</button>
               </form>
             )}
+
+
+            
+
           </div>
+
+          */}
         </div>
       </div>
     </section>

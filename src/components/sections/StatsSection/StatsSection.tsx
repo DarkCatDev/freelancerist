@@ -17,7 +17,7 @@ const defaultStats: Stat[] = [
   { value: "1", label: "Clients Served", description: "Customers using the platform" },
   { value: "98%", label: "Satisfaction rate", description: "Based on user surveys" },
   { value: "1", label: "Countries served", description: "Global reach" },
-  { value: "4.9★", label: "Average rating", description: "Across all review platforms" },
+  { value: "5.0★", label: "Average rating", description: "Across all review platforms" },
 ];
 
 export default function StatsSection({

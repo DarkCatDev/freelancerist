@@ -1,4 +1,4 @@
-import { useState } from "react";
+//import { useState } from "react";
 import { FiMail, FiPhone, FiMapPin } from "react-icons/fi";
 import styles from "./ContactSection.module.css";
 
@@ -26,6 +26,7 @@ export default function ContactSection({
     address: "Goa, Camarines Sur - No Specific Business Location yet",
   },
 }: ContactSectionProps) {
+  /*
   const [form, setForm] = useState({ name: "", email: "", subject: "", message: "" });
   const [submitted, setSubmitted] = useState(false);
 
@@ -38,7 +39,7 @@ export default function ContactSection({
     // Replace with your form submission logic (e.g., API call, email service)
     setSubmitted(true);
   };
-
+  */
   return (
     <section className={styles.section} id='ContactID'>
       <div className={styles.container}>

@@ -58,6 +58,7 @@ const defaultItems: PortfolioCard[] = [
     title: "Canva Designs",
     icon: "🎨",
     links: [
+      { label: "Portfolio Canva PDF", href: "https://canva.link/p3v4grednci01pd" },
       { label: "Sample old package", href: "https://canva.link/lcqqfuv97tf3ixl" },
       { label: "Mobile Menu Mockup", href: "https://canva.link/lak29divjpmdw7r" },
     ],

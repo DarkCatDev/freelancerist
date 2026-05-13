@@ -45,7 +45,7 @@ const defaultColumns: FooterColumn[] = [
 ];
 
 export default function Footer({
-  siteName = "Freelancerist Studio",
+  siteName = "Freelancerist PH Studio",
   tagline = "We've got your hassle covered.",
   columns = defaultColumns,
   showSocials = true,

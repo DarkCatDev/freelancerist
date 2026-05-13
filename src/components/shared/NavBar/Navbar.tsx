@@ -23,7 +23,7 @@ const defaultLinks: NavLink[] = [
 
 export default function Navbar({
   logo,
-  siteName = "TheFreelancerist",
+  siteName = "TheFreelancerist PH",
   links = defaultLinks,
   ctaLabel = "Message Us",
   ctaHref = "#ContactID",
